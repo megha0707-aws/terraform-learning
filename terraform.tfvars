@@ -1,6 +1,5 @@
 resource_group_name = "rg-terraform-learning"
-location            = "Central India"
-
+location = "East US"
 vnet_name = "learning-vnet"
 
 vnet_address_space = [
